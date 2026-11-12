@@ -1,0 +1,6 @@
+{
+  "name": "UCB La Paz · Campus Map & Navegador Didáctico",
+  "description": "Mapeado interactivo y didáctico del Campus Universitario San Pablo de la UCB en La Paz, Bolivia. Navegador peatonal estilo Google Maps, búsqueda de aulas y rutas paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
